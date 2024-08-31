@@ -21,7 +21,7 @@
 			var stockerActivityReportFrequency = 1000 * 60 * 60
 
 		// Make game notifications fade away on their own
-		var stockerFastNotifications = true
+		var stockerFastNotifications = false
 
 		// Use console.log for more detailed info on prices and trends
 		var stockerConsoleAnnouncements = false
